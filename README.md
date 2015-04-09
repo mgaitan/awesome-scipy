@@ -4,5 +4,5 @@ A curated list of python resources for science [has been mantained](http://www.s
 
 You can see and edit it here:
 
-    [https://github.com/scipy/scipy.org/blob/master/www/topical-software.rst](https://github.com/scipy/scipy.org/blob/master/www/topical-software.rst)
+* [https://github.com/scipy/scipy.org/blob/master/www/topical-software.rst](https://github.com/scipy/scipy.org/blob/master/www/topical-software.rst)
 
